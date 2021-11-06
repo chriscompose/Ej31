@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ej31</string>
+    <string name="descrip_main_func">Type two values below</string>
+    <string name="v1">First value</string>
+    <string name="v2">Second value</string>
+    <string name="restar">Restar</string>
+    <string name="sumar">Deduct</string>
+    <string name="calcular">Calculate</string>
+    <string name="Resultado">Result:</string>
+    <string name="placeholder"></string>
+</resources>
